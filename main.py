@@ -23,7 +23,7 @@ def ran(message):
 
     # You can find the channel ID by simply right clicking on the channel you wish to input messages into and
     # pressing "Copy ID"
-    r = requests.post("https://discord.com/api/v9/channels/931386327914659901/messages", data=payload, headers=header)
+    r = requests.post("https://discord.com/api/v9/channels/REDACTED/messages", data=payload, headers=header)
 
 
 while True:
