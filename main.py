@@ -18,7 +18,7 @@ def ran(message):
     }
 
     header = {
-        'authorization': "Mzc5NjI2MzU2NDUyODg0NDgw.GmdKgw.Q7IjHISGtq39_wstRBVfuIxZ-5nenslpX24svU"
+        'authorization': "REDACTED"
     }
 
     # You can find the channel ID by simply right clicking on the channel you wish to input messages into and
